@@ -19,4 +19,8 @@
 ![react](/icons/react.svg)
 ![tailwind](/icons/tailwindcss.svg)
 
+# Contacto
+
+[![LinkedIn](/icons/linkedin.svg)](www.linkedin.com/in/jair-ochoa)
+
 </div>
