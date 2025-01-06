@@ -9,18 +9,5 @@
     🎮 Música • Juegos • Anime • Código</pre>
     <br>
     <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" width="70%" align="center" style="pointer-events: none;">
-    <br><br>
-
-# Lenguajes y herramientas
-
-![JavaScript](/icons/javascript.svg)
-<img src="/icons/angular.svg" width="50" height="53">
-![astro](/icons/Astro_dark.svg)
-![react](/icons/react.svg)
-![tailwind](/icons/tailwindcss.svg)
-
-# Contacto
-
-[![LinkedIn](/icons/linkedin.svg)](www.linkedin.com/in/jair-ochoa)
 
 </div>
