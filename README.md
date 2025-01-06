@@ -14,7 +14,8 @@
 # Lenguajes y herramientas
 
 ![JavaScript](/icons/javascript.svg)
-![Angular](/icons/angular.svg)
+<img src="/icons/angular.svg" alt="Angular" height="50">
+
 ![astro](/icons/Astro_dark.svg)
 ![react](/icons/react.svg)
 ![tailwind](/icons/tailwindcss.svg)
