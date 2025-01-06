@@ -14,5 +14,9 @@
 # Lenguajes y herramientas
 
 ![JavaScript](/icons/javascript.svg)
+![Angular](/icons/angular.svg)
+![astro](/icons/Astro_dark.svg)
+![react](/icons/react.svg)
+![tailwind](/icons/tailwindcss.svg)
 
 </div>
