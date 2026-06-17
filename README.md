@@ -4,7 +4,7 @@
     <br>
     <pre align="left">
     🎓 Interactive Designer @Utadeo
-    💻 TS ✦ GO ✦ Dart
+    💻 TS ✦ Go ✦ Dart ✦ Docker
     🏢 @Freelance
     🎮 Music ✦ Videogames ✦ Anime </pre>
     <br>
